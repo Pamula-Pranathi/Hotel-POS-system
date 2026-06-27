@@ -88,9 +88,8 @@ section .main{
 
 section .main .men_text h1{
     font-size: 60px;
-    position: relative;
-    top: -90px;
-    left: 20px;
+   margin-top: 20px;
+   margin-left: 20px;
 }
 
 section .main .men_text h1 span{
